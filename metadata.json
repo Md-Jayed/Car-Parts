@@ -1,0 +1,7 @@
+{
+  "name": "AutoPart AI - Smart E-commerce",
+  "description": "A comprehensive automotive parts e-commerce platform featuring AI-powered smart search, visual part identification, and a virtual assistant for installation guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
